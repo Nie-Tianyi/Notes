@@ -1,6 +1,6 @@
 # README
 
-[吴恩达机器学习笔记](./MachineLearning.pdf)
+[吴恩达机器学习笔记](./Machine Learning.pdf)
 
 为什么这么多人找我要笔记啊...
 
