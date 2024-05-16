@@ -1,9 +1,7 @@
 # README
 
-[吴恩达机器学习笔记](https://github.com/Nie-Tianyi/Notes/blob/main/Machine%20Learning.pdf)
+[Machine Learning](https://github.com/Nie-Tianyi/Notes/blob/main/Machine%20Learning.pdf)
 
-为什么这么多人找我要笔记啊...
+[Computer System Security](https://github.com/Nie-Tianyi/Notes/blob/main/Computer%20System%20Security.pdf)
 
-别人记得笔记真的看得懂吗...
-
-不会是收藏从未停止，学习从未开始吧...
+[E-payment And Cryptocurrency](https://github.com/Nie-Tianyi/Notes/blob/main/Cryptocurrency.pdf)
