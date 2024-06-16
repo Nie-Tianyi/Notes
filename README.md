@@ -5,3 +5,5 @@
 [Computer System Security](https://github.com/Nie-Tianyi/Notes/blob/main/Computer%20System%20Security.pdf)
 
 [E-payment And Cryptocurrency](https://github.com/Nie-Tianyi/Notes/blob/main/Cryptocurrency.pdf)
+
+[Investment](https://github.com/Nie-Tianyi/Notes/blob/main/Investment.pdf)
