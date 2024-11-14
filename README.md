@@ -1,9 +1,4 @@
 # README
 
-[Machine Learning](https://github.com/Nie-Tianyi/Notes/blob/main/Machine%20Learning.pdf)
+[吴恩达机器学习]（https://github.com/Nie-Tianyi/Notes/blob/main/机器学习/Machine%20Learning.xmind)
 
-[Computer System Security](https://github.com/Nie-Tianyi/Notes/blob/main/Computer%20System%20Security.pdf)
-
-[E-payment And Cryptocurrency](https://github.com/Nie-Tianyi/Notes/blob/main/Cryptocurrency.pdf)
-
-[Investment](https://github.com/Nie-Tianyi/Notes/blob/main/Investment.pdf)
